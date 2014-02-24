@@ -6,6 +6,8 @@
 //  Copyright (c) 2014年 JK. All rights reserved.
 //
 
+/*该类测试*/
+
 #import <UIKit/UIKit.h>
 
 @interface JKViewController : UIViewController
